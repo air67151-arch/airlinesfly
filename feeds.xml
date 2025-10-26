@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>UrbanEdJournal PDF Feed</title>
+    <link>https://urbanedjournal.gse.upenn.edu/</link>
+    <description>Collection of PDF files related to airline customer service topics</description>
+    <language>es</language>
+    <lastBuildDate>Sun, 26 Oct 2025 12:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Delta Teléfono Gratuito — Cómo hablo con un agente de Delta</title>
+      <link>https://urbanedjournal.gse.upenn.edu/sites/default/files/webform/delta-telefono-gratuito-como-hablo-con-un-agente-de-delta.pdf</link>
+      <description>PDF: Cómo hablar con un agente de Delta Airlines.</description>
+      <pubDate>Sun, 26 Oct 2025 12:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Servicio al cliente Air France — Cómo hablo con una persona real en Air France</title>
+      <link>https://urbanedjournal.gse.upenn.edu/sites/default/files/webform/servicio-al-cliente-air-france-como-hablo-con-una-persona-real-en-air-france.pdf</link>
+      <description>PDF: Guía para contactar con un agente real de Air France.</description>
+      <pubDate>Sun, 26 Oct 2025 12:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Air France Teléfono Gratuito — Cómo hablo con un agente de Air France</title>
+      <link>https://urbanedjournal.gse.upenn.edu/sites/default/files/webform/air-france-telefono-gratuito-como-hablo-con-un-agente-de-air-france.pdf</link>
+      <description>PDF: Cómo contactar con un agente de Air France vía teléfono gratuito.</description>
+      <pubDate>Sun, 26 Oct 2025 12:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Cómo hablar con un agente de Air Canada — Teléfono Ecuador</title>
+      <link>https://urbanedjournal.gse.upenn.edu/sites/default/files/webform/como-hablar-co.n-un-agente-de-air-ca.nada-ecu-te.lefono.pdf</link>
+      <description>PDF: Guía para hablar con un agente de Air Canada (Ecuador).</description>
+      <pubDate>Sun, 26 Oct 2025 12:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Cómo hablar con un agente de Air Canada — Respuesta rápida</title>
+      <link>https://urbanedjournal.gse.upenn.edu/sites/default/files/webform/como-hablar-con-un-age.....n.te-de-air-can.ad_.a-resp.uest_.a-rapid.a.pdf</link>
+      <description>PDF: Cómo obtener respuesta rápida de un agente de Air Canada.</description>
+      <pubDate>Sun, 26 Oct 2025 12:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Cómo hablar con un agente de Air Canada — Teléfono Ecuador (Versión alterna)</title>
+      <link>https://urbanedjournal.gse.upenn.edu/sites/default/files/webform/como-ha.bl_.ar-con-un-a-ge.nte-de-air-ca-na.da-ec.u-telefo.no_.pdf</link>
+      <description>PDF: Otra guía para contactar con Air Canada (Ecuador).</description>
+      <pubDate>Sun, 26 Oct 2025 12:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
